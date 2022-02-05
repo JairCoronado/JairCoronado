@@ -1,10 +1,10 @@
 ### Hi there,👋🏼👨🏻‍💻
 ![Profile Views](https://komarev.com/ghpvc/?username=JairCoronado&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jair.coronadope@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jair.coronadope@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-coronado-perales/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yacko72 "Follow on Twitter")
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jaco1020/ "Connect on Facebook")
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/y4cko72/ "Follow on Instagram")
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jaco72 "Follow on Twitch")
 
 I am Jair Coronado, Mechatronic Engineer at the Universidad Autonoma de Nuevo Leon 🇲🇽, currently learning Full Stack and salesforce, who is passionate about Data Science  :bar_chart:, Robotics, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
