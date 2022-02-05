@@ -12,7 +12,7 @@
 I am Jair Coronado, Mechatronic Engineer at the Universidad Autonoma de Nuevo Leon 🇲🇽, currently learning Full Stack and salesforce, who is passionate about Data Science  :bar_chart:, Robotics, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🤖 Automation mentor in robot team Tigres 6652 UANL
-- 💬 Ask me about system vision,IA,DataBase,Java and automation
+- 💬 Ask me about system vision,IA,DataBase,Java and Automation.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
