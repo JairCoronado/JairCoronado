@@ -15,7 +15,6 @@ I am Jair Coronado, Mechatronic Engineer at the Universidad Autonoma de Nuevo Le
 - 💬 Ask me about system vision,IA,DataBase,Java and Automation.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairCoronado&hide=TeX&layout=compact)
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
